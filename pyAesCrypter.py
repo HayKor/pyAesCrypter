@@ -2,6 +2,17 @@ import os
 import pyAesCrypt as pas
 
 def menu():
+        print("Автор: TG @HayKor")
+        print("")
+        c = ''' a88888b.                              dP                     
+d8'   `88                              88                     
+88        88d888b. dP    dP 88d888b. d8888P .d8888b. 88d888b. 
+88        88'  `88 88    88 88'  `88   88   88ooood8 88'  `88 
+Y8.   .88 88       88.  .88 88.  .88   88   88.  ... 88       
+ Y88888P' dP       `8888P88 88Y888P'   dP   `88888P' dP       
+                        .88 88                                
+                    d8888P  dP                                '''
+        print(c)
         print("")
         print("")
         print("")
