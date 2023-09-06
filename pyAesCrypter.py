@@ -6,7 +6,7 @@ import sys
 def menu():
     os.system("clear")
     print("")
-    print("Автор: TG @HayKor          VK @barusidoo")
+    print("Автор: TG @HayKor          VK @mr_pupul")
     print("")
     c = ''' d88b                   w              
 8P    8d8b Yb  dP 88b. w8ww .d88b 8d8b 
